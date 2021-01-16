@@ -1,0 +1,6 @@
+{
+    "exports": {
+        ".": "./skills.cjs",
+        ".": "./randomItem.js"
+      }
+}
