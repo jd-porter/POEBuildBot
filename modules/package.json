@@ -1,6 +1,17 @@
 {
-    "exports": {
-        ".": "./skills.cjs",
-        ".": "./randomItem.js"
-      }
+  "name": "POE Build Bot",
+  "version": "1.0.0",
+  "description": "Recommend Builds in Path of Exile when you've got build paralysis, plus some other things",
+  "author": "JDP <jdp@jdp.dev>",
+  "main": "poeBuildBot.js",
+  "scripts": {
+    "start": "node poeBuildBot.js",
+    "build": "npm build",
+    "clean": "rm -rf node_modules", 
+    "reinstall": "npm run clean && npm install", 
+    "rebuild": "npm run clean && npm install && npm run build"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
 }

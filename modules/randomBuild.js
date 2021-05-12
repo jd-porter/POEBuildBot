@@ -12,7 +12,7 @@ if (selectedMessageRarity < messageRarity.unique)  {
 } 
 else if (selectedMessageRarity < messageRarity.rare)
 { 
-    msg.reply(`Deckard Cain says you should play a ${randomFakeAscendancy()} ${randomFakeSkill()}`);
+    msg.reply(`Deckard Cain says you should play a ${randomFakeSkill()} ${randomFakeAscendancy()}`);
 }
 else
 {  

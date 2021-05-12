@@ -5,11 +5,15 @@
   "main": "poeBuildBot.js",
   "author": "",
   "dependencies": {
+    "@mysql/xdevapi": "8.0.23",
     "discord.js": "^12.5.1",
+    "eslint": "^5.11.1",
+    "markov-strings": "^3.0.1",
+    "mysql8.0": "^1.1.2",
+    "random": "^3.0.5",
     "random-from-array": "^1.0.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-   
-  }  
+  }
 }

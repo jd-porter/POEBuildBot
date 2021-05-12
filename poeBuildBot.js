@@ -7,8 +7,6 @@ client.commands = new Discord.Collection();
 const prefix = "!";
 
 // discord command line handling from https://discordjs.guide/command-handling/#dynamically-reading-command-files
-
-
 // load all of our special commands
 const commandFiles = fs.readdirSync('./commands').filter(file => file.endsWith('.js'));
 for (const file of commandFiles) {
@@ -37,7 +35,7 @@ client.on('message', message => {
         console.log(`unknown command ${commandName}`);
         return;
     } 
-    console.log("found command")
+    console.log(`found command ${commandName}`)
 	if (command.guildOnly && message.channel.type === 'dm') {
 		return message.reply('I can\'t execute that command inside DMs!');
 	}

@@ -1,4 +1,5 @@
 const randomSkill = require('../modules/skills.js').randomSkill;
+const randomSupport = require('../modules/supports.js').randomSupport;
 const randomFakeSkill = require('../modules/fakeSkills.js').randomSkill;
 const randomAscendancy = require('../modules/ascendancies.js').randomAscendancy;
 const randomFakeAscendancy = require('../modules/fakeAscendancies.js').randomAscendancy;
@@ -23,7 +24,14 @@ function createMessage(message, args) {
     }
     else
     {  
-        return(`${randomPreamble()} ${randomSkill()} ${randomAscendancy()}! ${randomEndorsement()}`);
+        if (Math.random() <0.5)
+        {
+            return(`${randomPreamble()} ${randomSkill()} ${randomAscendancy()}! ${randomEndorsement()}`);
+        }
+        else 
+        {
+            return(`${randomPreamble()} ${randomSupport()} ${randomSkill()} ${randomAscendancy()}! ${randomEndorsement()}`);
+        }
     }
 }
 

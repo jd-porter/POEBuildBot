@@ -19,7 +19,14 @@ var endorsements = [
     "You're going to love running it!",
     "but you'll probably just use your starter skill the whole league",
     "McFrugal isn't very impressed. ",
-    "Might be ok, but you'll spend most of your money on krangling your gear"
+    "Might be ok, but you'll spend most of your money on krangling your gear",
+    "Keep it quiet - Carados threatened me with a 500 word essay if I ever revealed the secret of this build.",
+    "Path of Matth canceled his boycott when he heard about this build.",
+    "zizaran ripped his build so he could switch to this one.",
+    "Chris smashed a keyboard and nerfed Talismans again when this got meta.", 
+    "ziggy rejected this build for being too unethical",
+    "This build is what Project PT warned us about",
+    "It's a good beginner build as long as you watch the 70 minute youtube explainer."
 ];
 
 

@@ -2,7 +2,7 @@
 
 const randomItem = require('./randomItem.js');
 var skills =
-    [
+    [    
         "Ancestral Cry",
         "Ancestral Protector",
         "Ancestral Warchief",
@@ -48,6 +48,7 @@ var skills =
         "Contagion",
         "Conversion Trap",
         "Convocation",
+        "Corrupting Fever",
         "Crackling Lance",
         "Creeping Frost",
         "Cremation",
@@ -79,6 +80,7 @@ var skills =
         "Ethereal Knives",
         "Explosive Arrow",
         "Explosive Trap",
+        "Exsanguinate",
         "Fire Trap",
         "Fireball",
         "Firestorm",
@@ -147,6 +149,7 @@ var skills =
         "Penance Brand",
         "Perforate",
         "Pestilent Strike",
+        "Petrified Blood",
         "Phase Run",
         "Plague Bearer",
         "Poacher's Mark",
@@ -166,6 +169,7 @@ var skills =
         "Raise Spectre",
         "Raise Zombie",
         "Rallying Cry",
+        "Reap",
         "Reave",
         "Reckoning",
         "Rejuvenation Totem",

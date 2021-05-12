@@ -140,6 +140,7 @@ const trialPrefix =
     "Small-Assed",
     "Himbo",
     "Goony",
+    "Revolutionary",
     "Muppet",
 ]
 
