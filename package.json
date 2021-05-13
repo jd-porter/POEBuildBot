@@ -11,7 +11,8 @@
     "markov-strings": "^3.0.1",
     "mysql8.0": "^1.1.2",
     "random": "^3.0.5",
-    "random-from-array": "^1.0.1"
+    "random-from-array": "^1.0.1",
+    "title-case": "^3.0.3"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
