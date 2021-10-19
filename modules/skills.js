@@ -277,7 +277,24 @@ var skills =
         "Wither",
         "Withering Step",
         "Wrath",
-        "Zealotry"
+        "Zealotry",
+        "Rage Vortex",
+        "Bone Shatter",
+        "Defiance Banner",
+        "Shield Crush",
+        "Storm Rain",
+        "Explosive Concoction",
+        "Blade Trap",
+        "Ambush",
+        "Voltaxic Burst",
+        "Forbidden Might",
+        "Summon Reaper",
+        "Eye of Winter",
+        "Manabond",
+        "Battlemage's Cry",
+        "Absolution",
+        "Spectral Helix"
+
     ]
 
     function randomSkill() {

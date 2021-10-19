@@ -10,7 +10,11 @@ var uniques = [
     "you can ignite just about anything now, it owns. OWN Elementalist :star:",
     "get in touch with your inner Silk by playing an Arakaali's Fang Necromancer :star:",
     "Any build you play will be good and viable, we believe in u :star:",
-    "I think you should stop brewing POE builds and get back to work 🐚"
+    "I think you should stop brewing POE builds and get back to work 🐚",
+    "Does theorycrafting a build even mean anything anymore 😭",
+    "Krangle up a sexy hypothermia bleed build ❄️",
+    "Second wind knockback Chainhook is king shit right now ⛓️🪝",
+    "slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead :salt:"
 ]
 
 

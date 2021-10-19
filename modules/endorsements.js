@@ -26,7 +26,9 @@ var endorsements = [
     "Chris smashed a keyboard and nerfed Talismans again when this got meta.", 
     "ziggy rejected this build for being too unethical",
     "This build is what Project PT warned us about",
-    "It's a good beginner build as long as you watch the 70 minute youtube explainer."
+    "It's a good beginner build as long as you watch the 70 minute youtube explainer.",
+    "reddit cried that this build was nerfed, so it's probably going to be meta next league",
+    "ziz only facepalmed a little bit talking this one out"
 ];
 
 

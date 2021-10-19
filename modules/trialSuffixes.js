@@ -11,15 +11,15 @@ const trialSuffix =
     'awe',              'bereaved',        'bereavement',
     'bereft',           'bother',          'botheration',
     'care',             'choler',          'concern',
-    'crow',             'dread',           'exuberate',
+    'crow',             'dread',           'exuberance',
     'exult',            'fear',            'fearfulness',
     'fright',           'gloat',           'grief-stricken',
-    'grieving',         'hate',            'hatred',
+    'grieving',         'hating',            'hatred',
     'hurt',             'hurting',         'infliction',
     'ire',              'jubilate',
     'lamentation',      'mourning',        
     'nuisance',         'pain',    
-    'painfulness',      'prevail',         'rejoice',
+    'painfulness',      'prevail',         'rejoicing',
     'revere',           'reverence',       
     'Trials',
     'tribulation',      'triumph',         'trouble',
@@ -28,7 +28,8 @@ const trialSuffix =
     'victory',          'visitation',      'wallow',
     'wrath',
     'emojis', 'goons',
-    'concern'
+    'concern', "celebration", "update",
+    "patching"
   
 ]
 

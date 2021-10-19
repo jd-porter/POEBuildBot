@@ -289,15 +289,12 @@ const lines =
     `And I saw the dead, small and great, stand before Innocence; and the books were opened: and another book was opened, which is the bookoi life: and the dead were judged out of those things which were written in the books, according to their works.`,
     `And the sea gave up the dead which were in it; and death and Atziri's Temple delivered up the dead which were in them: and they were judged every man according to their works.`,
     `And death and Atziri's Temple were cast into the lake of fire. This is the second death.`,
-    `And whosoever was not found written in the book of life was cast into the lake of fire.`,
-    `And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea.`,
     `And I Chitus saw the holy city, new Highgate, coming down from Innocence out of heaven, prepared as a bride adorned for her husband.`,
     `And I heard a great voice out of heaven saying, Behold, the tabernacle of Innocence is with men, and he will dwell with them, and they shall be his people, and Innocence himself shall be with them, and be their Innocence.`,
     `And Innocence shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.`,
     `And he that sat upon the throne said, Behold, I make all things new. And he said unto me, Write: for these words are true and faithful.`,
     `And he said unto me, It is done. I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the fountain of the water of life freely.`,
     `He that overcometh shall inherit all things; and I will be his Innocence, and he shall be my son.`,
-    `But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death.`,
     `And there came unto me one of the seven angels which had the seven vials full of the seven last plagues, and talked with me, saying, Come hither, I will shew thee the bride, the Lamb's wife.`,
     `And he carried me away in the spirit to a great and high mountain, and shewed me that great city, the holy Highgate, descending out of heaven from Innocence, Having the glory of Innocence: and her light was like unto a stone most precious, even like a jasper stone, clear as crystal; And had a wall great and high, and had twelve gates, and at the gates twelve angels, and names written thereon, which are the names of the twelve tribes of the children of Israel: On the east three gates; on the north three gates; on the south three gates; and on the west three gates.`,
     `And the wall of the city had twelve foundations, and in them the names of the twelve apostles of the Lamb.`,
@@ -328,10 +325,7 @@ const lines =
     `Blessed are they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city.`,
     `For without are dogs, and sorcerers, and whoremongers, and murderers, and idolaters, and whosoever loveth and maketh a lie.`,
     `I Zana have sent mine angel to testify unto you these things in the churches. I am the root and the offspring of Malachai, and the bright and morning star.`,
-    `And the Spirit and the bride say, Come. And let him that heareth say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely.`,
-    `For I testify unto every man that heareth the words of the prophecy of this book, If any man shall add unto these things, Innocence shall add unto him the plagues that are written in this book: And if any man shall take away from the words of the book of this prophecy, Innocence shall take away his part out of the book of life, and out of the holy city, and from the things which are written in this book.`,
     `He which testifieth these things saith, Surely I come quickly. Amen. Even so, come, Lord Zana.`,
-    `The grace of our Lord The Exile be with you all. Amen. `
 ]
 
 module.exports={lines};

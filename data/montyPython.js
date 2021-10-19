@@ -1,0 +1,30 @@
+const lines = 
+[
+    "Yes, of course! The Holy Hand Grenade of Antioch! 'Tis one of the sacred relics Brother Maynard carries with him! Brother Maynard! Bring up the Holy Hand Grenade!",
+    "Pie Iesu domine, dona eis requiem. Pie Iesu domine, dona eis requiem. Pie Iesu domine, dona eis requiem. Pie Iesu domine, dona eis requiem.",
+    "Armaments, chapter two, verses nine to twenty-one.",
+    "And Saint Attila raised the hand grenade up on high, saying, 'O Lord, bless this Thy hand grenade that, with it, Thou mayest blow Thine enemies to tiny bits in Thy mercy.' And the Lord did grin, and the people did feast upon the lambs and sloths and carp and anchovies and orangutans and breakfast cereals and fruit bats and large chu--",
+    "And the Lord spake, saying, 'First shalt thou take out the Holy Pin. Then, shalt thou count to three. No more. No less. Three shalt be the number thou shalt count, and the number of the counting shall be three. Four shalt thou not count, nor either count thou two, excepting that thou then proceed to three. Five is right out. Once the number three, being the third number, be reached, then, lobbest thou thy Holy Hand Grenade of Antioch towards thy foe, who, being naughty in My sight, shall snuff it.' ",
+    "Go and tell your master that we have been charged by God with a sacred quest. If he will give us food and shelter for the night, he can join us in our quest for the Holy Grail.",
+    "I'm French! Why do think I have this outrageous accent, you silly king-a?!",
+    "You don't frighten us, English pig-dogs! Go and boil your bottom, sons of a silly person. I blow my nose at you, so-called Arthur King, you and all your silly English k-nnnnniggets. Thpppppt! Thppt! Thppt!",
+    "What a strange person.",
+    "I don't wanna talk to you no more, you empty headed animal food trough wiper! I fart in your general direction! Your mother was a hamster and your father smelt of elderberries!",
+    "Is there someone else up there we could talk to? ",
+    "Our experts describe you as an appallingly dull fellow, unimaginative, timid, lacking in initiative, spineless, easily dominated, no sense of humour, tedious company and irrepressibly drab and awful",
+    "Help! Help! I’m being repressed! Come see the violence inherent in the system! Violence inherent in the system!",
+    "No, now go away before I taunt you a second time.",
+    "I’m not quite dead yet!",
+    "Don’t like her? What’s wrong with her. She’s beautiful, she’s rich, she’s got huge … tracts of land.",
+    "Oh, but you can’t expect to wield supreme executive power just because some watery tart threw a sword at you!",
+    "Well, now, uh, Launcelot, Galahad, and I, wait until nightfall, and then leap out of the rabbit, taking the French by surprise – not only by surprise, but totally unarmed!",
+    ". When I first came here, this was all swamp. Everyone said I was daft to build a castle on a swamp, but I built in all the same, just to show them. It sank into the swamp. So I built a second one. And that one sank into the swamp. So I built a third. That burned down, fell over, and then sank into the swamp. But the fourth one stayed up. And that’s what you’re going to get, Son, the strongest castle in all of England.",
+    "You’ve got two empty ‘alves of coconuts and you’re bangin’ em together!",
+    "Follow. But! Follow only if ye be men of valour, for the entrance to this cave is guarded by a creature so foul, so cruel that no man yet has fought with it and lived! Bones of full fifty men lie strewn about its lair. So, brave knights, if you do doubt your courage or your strength, come no further, for death awaits you all with nasty, big, pointy teeth.",
+    "Your mother was a hamster and your father smelt of elderberries!",
+    "It is I, Arthur, Son of Uther Pendragon, from the castle of Camelot. King of the Britons, defeater of the Saxons, sovereign of all England.",
+    "And spotteth twice they the camels before the third hour. And so the Midianites went forth to Ram Gilead in Kadesh Bilgemath by Shor Ethra Regalion, to the house of Gash-Bil-Betheul-Bazda, he who brought the butter dish to Balshazar and the tent peg to the house of Rashomon, and there slew they the goats, yea, and placed they the bits in little pots. Here endeth the lesson.",
+    "That’s right, yeah. I’ve had a team working on this over the past few weeks, and what we’ve come up with can be reduced to two fundamental concepts. One, people are not wearing enough hats. Two, matter is energy. In the Universe there are many energy fields which we cannot normally perceive. Some energies have a spiritual source which act upon a person’s soul. However, this soul does not exist ab initio as orthodox Christianity teaches; it has to be brought into existence by a process of guided self-observation. However, this is rarely achieved owing to man’s unique ability to be distracted from spiritual matters by everyday trivia.",
+];
+
+module.exports={lines};

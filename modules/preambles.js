@@ -31,7 +31,9 @@ var preambles = [
     "Slow POE enthusiasts are enamored with this",
     "Salutations Exile! Let's try crashing an instance with this",
     "Time to farm A10 Kitava with a Low Life",
-    "When I'm not playing Hades, I like to chill with a"
+    "When I'm not playing Hades, I like to chill with a",
+    
+    "Beep thinks you're an idiot for trying a "
 ];
 
 
