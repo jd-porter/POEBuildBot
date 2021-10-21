@@ -31,9 +31,13 @@ var preambles = [
     "Slow POE enthusiasts are enamored with this",
     "Salutations Exile! Let's try crashing an instance with this",
     "Time to farm A10 Kitava with a Low Life",
-    "When I'm not playing Hades, I like to chill with a",
-    
-    "Beep thinks you're an idiot for trying a "
+    "When I'm not playing Hades, I like to chill with a", 
+    "Beep thinks you're an idiot for trying a",
+    "Mathil's cosplay inspired me to try this",
+    "I'm not 100% sure about this, but masteries might make this work: ", 
+    "Bex shitposted this on twitter",
+    "Chris sighed and scheduled another podcast tour after reviewing my ",
+    "Ziggy stopped using a logout macro after trying a "
 ];
 
 
