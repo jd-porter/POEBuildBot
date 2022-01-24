@@ -11,15 +11,18 @@ var uniques = [
     "After playing too much D2R, you gotta get on a cyclone- tornado build :star:",
     "Defy Death with a Cast on Death Temporal Rift build :star:",
     "piss in your own jug and be the Poisonous Concoction build you want to see in the world :star:",
-    "G E T  E Q U I P P E D \nW I T H\n D I S A P P O I N T M E N T\n and Energy Blade :star:f",
+    "G E T  E Q U I P P E D \nW I T H\n D I S A P P O I N T M E N T\n and Energy Blade :star:",
     "you can ignite just about anything now, it owns. OWN Elementalist :star:",
     "get in touch with your inner Silk by playing an Arakaali's Fang Necromancer :star:",
     "Any build you play will be good and viable, we believe in u :star:",
     "I think you should stop brewing POE builds and get back to work 🐚",
     "Does theorycrafting a build even mean anything anymore 😭",
     "Krangle up a sexy hypothermia bleed build ❄️",
-    "Second wind knockback Chainhook is king shit right now ⛓️🪝",
-    "slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead :salt:"
+    "Second wind knockback Chainhook is king shit right now ⛓️",
+    "slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead :salt:",
+    "VHPG's General Cry+Ice Crash Bow build looking good. minimum 200Ex investment, but they know a guy who can help with that 💰",
+    "DERVISH RAMPAGE SUPREMACY :star:",
+    "Carados has a super-illegal General's Cry-Chain Hook POB, 32M damage *minimum* ⛓ :star:"
 ]
 
 
