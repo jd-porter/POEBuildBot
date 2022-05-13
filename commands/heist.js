@@ -96,10 +96,26 @@ const membersKeys = Object.keys(members);
 function createMessage(message, args) {
     
     var memberEmbed = null;
-    var rewardEmbed = null;
-    // .setDescription(members[thisKey].overall) 
-    // .setThumbnail(members[thisKey].image)
-    // console.log(args);
+    var rewardEmbed = null; 
+    if (args.length ==1 && args[0]=="rogues"){
+        message.reply(`\`\`\`HEIST ROGUES
+Name   | Skills                                                    | Attack Type
+Karst  | Lockpicking[5] Perception[3] Agility[2]                   | Projectiles
+Tibbs  | Brute Force[5] Demolition[4]                              | Melee
+Isla   | Engineering[5] Trap Disarmament[4]                        | Spell
+Tullina| Agility[5] Lockpicking[3] Trap Disarmament[2]             | Melee
+Niles  | Counter-Thaumaturgy[5] Deception[4]                       | Spell
+Nenet  | Perception[5] Counter-Thaumaturgy[4]                      | Projectiles
+Vinderi| Demolition[5] Trap Disarmament[5] Engineering[2]          | Melee
+Gianna | Deception[5] Counter-Thaumaturgy[3] Perception[2]         | Spell
+Huck   | Lockpicking[3] Brute Force[3] Demolition[3] Engineering[3]| Melee
+
+UNLOCKS:
+Tibbs → Tullina → Nenet
+Karst → Huck → Niles → Vinderi → Gianna\`\`\``
+        );
+        return;
+    }
     if (args.length >= 1) {
         args.forEach(thisKey => {
             thisKey = titlecase(thisKey);

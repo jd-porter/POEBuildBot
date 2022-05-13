@@ -1,8 +1,9 @@
 const fs = require('fs');
 const Discord = require('discord.js');
+
 const discordToken = require ('./discordToken.js').token;
 
-const client = new Discord.Client();
+const client = new Discord.Client({ intents: ['GUILDS', 'GUILD_MESSAGES']});
 client.commands = new Discord.Collection();
 const prefix = "!";
 
@@ -21,7 +22,7 @@ client.once('ready', () => {
 	console.log('Ready!');
 });
 
-client.on('message', message => {
+client.on('messageCreate', message => {
 	if (!message.content.startsWith(prefix) || message.author.bot) return;
  
 	const args = message.content.slice(prefix.length).trim().split(/ +/);

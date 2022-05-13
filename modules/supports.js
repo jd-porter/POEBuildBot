@@ -176,7 +176,10 @@ var supports =
         "Vile Toxins",
         "Void Manipulation",
         "Volley",
-        "Withering Touch"
+        "Withering Touch",
+        "Earthbreaker",
+        "Behead",
+        "Focused Ballista"
     ]
 
     function randomSupport() {

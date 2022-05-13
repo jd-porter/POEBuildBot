@@ -142,6 +142,16 @@ const trialPrefix =
     "Goony",
     "Revolutionary",
     "Muppet",
+    "Nerfed",
+    "Salty",
+    "Confusing",
+    "Poorly Balanced",
+    "Misdocumented",
+    "Premature",
+    "Slow",
+    "Throwback",
+    "Convivial",
+    "Chaos"
 ]
 
 
