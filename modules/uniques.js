@@ -19,7 +19,6 @@ var uniques = [
     "Does theorycrafting a build even mean anything anymore 😭",
     "Krangle up a sexy hypothermia bleed build ❄️",
     "Second wind knockback Chainhook is king shit right now ⛓️🪝",
-    "slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead slinger dead :salt:",
     "VHPG's General Cry+Ice Crash Bow build looking good. minimum 200Ex investment, but they know a guy who can help with that 💰",
     "DERVISH RAMPAGE SUPREMACY :star:",
     "Carados has a super-illegal General's Cry-Chain Hook POB, 32M damage *minimum* ⛓ :star:"
